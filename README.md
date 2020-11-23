@@ -7,7 +7,7 @@ It is based on [jump for Windows by Frederic Seiler](https://github.com/frederic
 
 ## Installation
 
-To be the most useful the script should be sourced when powershell is started. I personally use the following method but if you already use a powershell profile your requirements might differ (though most people with a powershell profile will know a way to source this script themselfes)
+To be the most useful the script should be sourced when powershell is started. I personally use the following method but if you already use a powershell profile your requirements might differ (though most people with a powershell profile will know a way to source this script themselves)
 
 In Powershell get the Path to your $profile
 
